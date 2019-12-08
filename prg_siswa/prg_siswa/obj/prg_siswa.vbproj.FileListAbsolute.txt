@@ -1,0 +1,22 @@
+D:\prg_siswa\prg_siswa\bin\Debug\prg_siswa.exe
+D:\prg_siswa\prg_siswa\bin\Debug\prg_siswa.pdb
+D:\prg_siswa\prg_siswa\bin\Debug\prg_siswa.xml
+D:\prg_siswa\prg_siswa\obj\Debug\ResolveAssemblyReference.cache
+D:\prg_siswa\prg_siswa\obj\Debug\WindowsApplication1.Form1.resources
+D:\prg_siswa\prg_siswa\obj\Debug\WindowsApplication1.Form2.resources
+D:\prg_siswa\prg_siswa\obj\Debug\WindowsApplication1.Resources.resources
+D:\prg_siswa\prg_siswa\obj\Debug\prg_siswa.vbproj.GenerateResource.Cache
+D:\prg_siswa\prg_siswa\obj\Debug\prg_siswa.exe
+D:\prg_siswa\prg_siswa\obj\Debug\prg_siswa.xml
+D:\prg_siswa\prg_siswa\obj\Debug\prg_siswa.pdb
+D:\Program Koneksi database VB.Net\prg_siswa\prg_siswa\obj\Debug\prg_siswa.exe
+D:\Program Koneksi database VB.Net\prg_siswa\prg_siswa\obj\Debug\prg_siswa.xml
+D:\Program Koneksi database VB.Net\prg_siswa\prg_siswa\obj\Debug\prg_siswa.pdb
+D:\Program Koneksi database VB.Net\prg_siswa\prg_siswa\bin\Debug\prg_siswa.exe
+D:\Program Koneksi database VB.Net\prg_siswa\prg_siswa\bin\Debug\prg_siswa.pdb
+D:\Program Koneksi database VB.Net\prg_siswa\prg_siswa\bin\Debug\prg_siswa.xml
+D:\Program Koneksi database VB.Net\prg_siswa\prg_siswa\obj\Debug\ResolveAssemblyReference.cache
+D:\Program Koneksi database VB.Net\prg_siswa\prg_siswa\obj\Debug\WindowsApplication1.Form1.resources
+D:\Program Koneksi database VB.Net\prg_siswa\prg_siswa\obj\Debug\WindowsApplication1.Form2.resources
+D:\Program Koneksi database VB.Net\prg_siswa\prg_siswa\obj\Debug\WindowsApplication1.Resources.resources
+D:\Program Koneksi database VB.Net\prg_siswa\prg_siswa\obj\Debug\prg_siswa.vbproj.GenerateResource.Cache
